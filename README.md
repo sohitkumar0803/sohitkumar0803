@@ -1,8 +1,8 @@
-# Hi there, I'm Sohit 👋
+<!-- # Hi there, I'm Sohit 👋 -->
 
 <div align="center">
   <h1>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=100&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+Sohit;Welcome+to+my+GitHub+Profile!" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=100&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+Sohit👋;Welcome+to+my+GitHub+Profile!" alt="Typing SVG"/>
   </h1>
 </div>
 
