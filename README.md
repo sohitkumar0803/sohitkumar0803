@@ -34,7 +34,7 @@ I'm a Data Analyst specializing in data visualization, exploratory data analysis
 ### Data Analysis Projects
 - **Description:** A collection of data analysis projects showcasing my skills and experience in data analytics.
 - **Technologies:** PowerBI, Tableau, Python, MYSQL
-- **Repository:** <a href>https://github.com/sohitkumar0803/Data-Analysis-Projects</a>
+- **Repository:** <a>https://github.com/sohitkumar0803/Data-Analysis-Projects</a>
 
 #### Featured Projects
 - **E-commerce Sales Dashboard:** An interactive dashboard to visualize e-commerce sales data.
