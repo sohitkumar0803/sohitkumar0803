@@ -48,22 +48,22 @@ I'm a Data Analyst specializing in data visualization, exploratory data analysis
 
 ## 🔗 Connect with Me
 <div align="center">
-  <a href="https://www.linkedin.com/in/sohitkumar08/">
+  <a href="https://www.linkedin.com/in/sohitkumar08/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.hackerrank.com/sohitmahato0803/">
+  <a href="https://www.hackerrank.com/sohitmahato0803/" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
   </a>
-  <a href="https://leetcode.com/sohitmahato0803/">
+  <a href="https://leetcode.com/sohitmahato0803/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
-  <a href="https://github.com/sohitkumar0803/">
+  <a href="https://github.com/sohitkumar0803/" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://www.kaggle.com/sohitmahato/">
+  <a href="https://www.kaggle.com/sohitmahato/" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
   </a>
-  <a href="https://sohit-portfolio.vercel.app/">
+  <a href="https://sohit-portfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=Website&logoColor=white" alt="Website"/>
   </a>
 </div>
