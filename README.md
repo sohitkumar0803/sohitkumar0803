@@ -2,7 +2,8 @@
 
 <div align="center">
   <h1>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=100&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+Sohit👋;Welcome+to+my+GitHub+Profile!" alt="Typing SVG"/>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=1000&pause=1000&center=true&vCenter=true&repeat=false&width=435&lines=Hey..I'm+Sohit%F0%9F%91%8B;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" /></a>
+    <hr>
   </h1>
 </div>
 
