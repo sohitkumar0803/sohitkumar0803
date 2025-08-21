@@ -2,8 +2,7 @@
 
 <div align="center">
   <h1>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=1000&pause=1000&center=true&vCenter=true&repeat=false&width=435&lines=Hey..I'm+Sohit%F0%9F%91%8B;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" /></a>
-    <hr>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=1000&pause=1000&center=true&vCenter=true&width=435&lines=Hey..I'm+Sohit%F0%9F%91%8B;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" /></a>
   </h1>
 </div>
 
